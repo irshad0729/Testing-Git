@@ -1,0 +1,14 @@
+h1{
+	font-size: 48px;
+}
+div{
+	height: 500PX;
+	width: 500PX;
+	border: 1px solid darkred;
+	text-align: center;
+	background: 	mediumaquamarine	;
+}
+p{
+	margin:250px auto;
+	font-size: 	25px;
+}
